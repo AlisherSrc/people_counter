@@ -36,30 +36,30 @@ model = YOLO('runs/detect/train/weights/best.pt')  # load a custom model
 results = model('test_images\person_1.jpg')  # predict on an image
 # print(results[0].boxes.xyxy)
 
-
+print(results)
 
 # Writing boundary boxes to the image ------------------------------------------------------------
 
 
 
-image = Image.open("test_images/person_1.jpg")
+# image = Image.open("test_images/person_1.jpg")
 
-image_cv = cv2.cvtColor(np.array(image), cv2.COLOR_RGB2BGR)
+# image_cv = cv2.cvtColor(np.array(image), cv2.COLOR_RGB2BGR)
 
-# results[0] = first YOLO Result element of the list 
-# results[0].boxes = list of all boxes on the image
-# results[0].boxes.xyxy = coordinates of top left(tl) corner and bottom right(br) corner
+# # results[0] = first YOLO Result element of the list 
+# # results[0].boxes = list of all boxes on the image
+# # results[0].boxes.xyxy = coordinates of top left(tl) corner and bottom right(br) corner
 
-# # Loop over the results and draw bounding boxes on the image
-for result in results[0].boxes.xyxy:
-    # print(result[0])
-    tl = (int(result[0]), int(result[1]))
-    br = (int(result[2]), int(result[3]))
-    cv2.rectangle(image_cv, tl, br, (0, 255, 0), 2)
+# # # Loop over the results and draw bounding boxes on the image
+# for result in results[0].boxes.xyxy:
+#     # print(result[0])
+#     tl = (int(result[0]), int(result[1]))
+#     br = (int(result[2]), int(result[3]))
+#     cv2.rectangle(image_cv, tl, br, (0, 255, 0), 2)
 
-# Display the output image
-cv2.imshow("Output", image_cv)
-cv2.waitKey(0)
+# # Display the output image
+# cv2.imshow("Output", image_cv)
+# cv2.waitKey(0)
 
-# Save the output image
-cv2.imwrite("out/output.jpg", image_cv)
+# # Save the output image
+# cv2.imwrite("out/output.jpg", image_cv)
