@@ -1,0 +1,122 @@
+  {
+    "photo1_y": {
+      "number_of_boxes" : "1",
+      "coordinates1": { "UpperLeft": ["0", "395"], "LowerRight": ["937", "1279"]  }
+    },
+    "photo2_y": {
+        "number_of_boxes" : "1",
+        "coordinates1": { "UpperLeft": ["781", "416"], "LowerRight": ["1029", "959"]  }
+      },
+    "photo3_y": {
+        "number_of_boxes" : "1",
+        "coordinates1": { "UpperLeft": ["537", "417"], "LowerRight": ["924", "959"]  }
+      },
+    "photo4_y": {
+        "number_of_boxes" : "1",
+        "coordinates1": { "UpperLeft": ["824", "365"], "LowerRight": ["1134", "959"]  }
+      },
+    "photo5_y": {
+        "number_of_boxes" : "1",
+        "coordinates1": { "UpperLeft": ["0", "308"], "LowerRight": ["274", "959"]  }
+      },
+    "photo6_y": {
+        "number_of_boxes" : "1",
+        "coordinates1": { "UpperLeft": ["0", "273"], "LowerRight": ["459", "959"]  }
+      },
+    "photo7_y": {
+        "number_of_boxes" : "1",
+        "coordinates1": { "UpperLeft": ["208", "392"], "LowerRight": ["514", "959"]  }
+      },
+    "photo8_y": {
+        "number_of_boxes" : "1",
+        "coordinates1": { "UpperLeft": ["449", "84"], "LowerRight": ["1248", "959"]  }
+      },
+    "photo9_y": {
+        "number_of_boxes" : "1",
+        "coordinates1": { "UpperLeft": ["96", "150"], "LowerRight": ["894", "959"]  }
+      },
+    "photo10_y": {
+        "number_of_boxes" : "1",
+        "coordinates1": { "UpperLeft": ["559", "447"], "LowerRight": ["1010", "959"]  }
+      },
+    "photo11_y": {
+        "number_of_boxes" : "1",
+        "coordinates1": { "UpperLeft": ["254", "243"], "LowerRight": ["763", "959"]  }
+      },
+    "photo12_y": {
+        "number_of_boxes" : "1",
+        "coordinates1": { "UpperLeft": ["564", "693"], "LowerRight": ["864", "959"]  }
+      },
+    "photo13_y": {
+        "number_of_boxes" : "1",
+        "coordinates1": { "UpperLeft": ["0", "21"], "LowerRight": ["1279", "959"]  }
+      },
+    "photo14_y": {
+        "number_of_boxes" : "1",
+        "coordinates1": { "UpperLeft": ["196", "360"], "LowerRight": ["912", "959"]  }
+      },
+    "photo15_y": {
+        "number_of_boxes" : "1",
+        "coordinates1": { "UpperLeft": ["669", "0"], "LowerRight": ["1279", "959"]  }
+      },
+    "photo16_y": {
+        "number_of_boxes" : "1",
+        "coordinates1": { "UpperLeft": ["0", "288"], "LowerRight": ["1279", "959"]  }
+      },
+    "photo17_y": {
+        "number_of_boxes" : "1",
+        "coordinates1": { "UpperLeft": ["234", "567"], "LowerRight": ["568", "959"]  }
+      },
+    "photo18_y": {
+        "number_of_boxes" : "1",
+        "coordinates1": { "UpperLeft": ["195", "252"], "LowerRight": ["1207", "959"]  }
+      },
+    "photo19_y": {
+        "number_of_boxes" : "1",
+        "coordinates1": { "UpperLeft": ["414", "403"], "LowerRight": ["1239", "959"]  }
+      },
+    "photo20_y": {
+        "number_of_boxes" : "1",
+        "coordinates1": { "UpperLeft": ["178", "80"], "LowerRight": ["675", "959"]  }
+      },
+    "photo21_y": {
+        "number_of_boxes" : "1",
+        "coordinates1": { "UpperLeft": ["685", "308"], "LowerRight": ["1127", "959"]  }
+      },
+    "photo22_y": {
+        "number_of_boxes" : "1",
+        "coordinates1": { "UpperLeft": ["589", "16"], "LowerRight": ["1279", "959"]  }
+      },
+    "photo23_y": {
+        "number_of_boxes" : "1",
+        "coordinates1": { "UpperLeft": ["441", "144"], "LowerRight": ["872", "959"]  }
+      },
+    "photo24_y": {
+        "number_of_boxes" : "1",
+        "coordinates1": { "UpperLeft": ["369", "302"], "LowerRight": ["973", "959"]  }
+      },
+    "photo25_y": {
+        "number_of_boxes" : "1",
+        "coordinates1": { "UpperLeft": ["441", "373"], "LowerRight": ["1170", "959"]  }
+      },
+    "photo26_y": {
+        "number_of_boxes" : "1",
+        "coordinates1": { "UpperLeft": ["423", "234"], "LowerRight": ["1035", "959"]  }
+      },
+    "photo27_y": {
+        "number_of_boxes" : "1",
+        "coordinates1": { "UpperLeft": ["641", "192"], "LowerRight": ["1260", "959"]  }
+      },
+    "photo28_y": {
+        "number_of_boxes" : "1",
+        "coordinates1": { "UpperLeft": ["476", "0"], "LowerRight": ["1279", "517"]  }
+      },
+    "photo29_y": {
+        "number_of_boxes" : "1",
+        "coordinates1": { "UpperLeft": ["523", "117"], "LowerRight": ["1140", "959"]  }
+      },
+    "photo30_y": {
+        "number_of_boxes" : "1",
+        "coordinates1": { "UpperLeft": ["577", "449"], "LowerRight": ["752", "782"]  }
+      }
+  }

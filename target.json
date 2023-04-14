@@ -1,0 +1,3123 @@
+{
+    "photo1_z": {
+        "number_of_boxes": 3,
+        "coordinates1": {
+            "UpperLeft": [
+                404,
+                443
+            ],
+            "LowerRight": [
+                592,
+                972
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                544,
+                330
+            ],
+            "LowerRight": [
+                849,
+                1236
+            ]
+        },
+        "coordinates3": {
+            "UpperLeft": [
+                0,
+                443
+            ],
+            "LowerRight": [
+                116,
+                891
+            ]
+        }
+    },
+    "photo2_z": {
+        "number_of_boxes": 3,
+        "coordinates1": {
+            "UpperLeft": [
+                106,
+                191
+            ],
+            "LowerRight": [
+                591,
+                1276
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                566,
+                560
+            ],
+            "LowerRight": [
+                958,
+                1277
+            ]
+        },
+        "coordinates3": {
+            "UpperLeft": [
+                290,
+                0
+            ],
+            "LowerRight": [
+                631,
+                428
+            ]
+        }
+    },
+    "photo3_z": {
+        "number_of_boxes": 4,
+        "coordinates1": {
+            "UpperLeft": [
+                48,
+                399
+            ],
+            "LowerRight": [
+                244,
+                902
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                670,
+                380
+            ],
+            "LowerRight": [
+                809,
+                875
+            ]
+        },
+        "coordinates3": {
+            "UpperLeft": [
+                221,
+                405
+            ],
+            "LowerRight": [
+                344,
+                857
+            ]
+        },
+        "coordinates4": {
+            "UpperLeft": [
+                0,
+                551
+            ],
+            "LowerRight": [
+                67,
+                873
+            ]
+        }
+    },
+    "photo4_z": {
+        "number_of_boxes": 2,
+        "coordinates1": {
+            "UpperLeft": [
+                0,
+                250
+            ],
+            "LowerRight": [
+                957,
+                1279
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                89,
+                254
+            ],
+            "LowerRight": [
+                207,
+                520
+            ]
+        }
+    },
+    "photo5_z": {
+        "number_of_boxes": 1,
+        "coordinates1": {
+            "UpperLeft": [
+                452,
+                105
+            ],
+            "LowerRight": [
+                934,
+                711
+            ]
+        }
+    },
+    "photo6_z": {
+        "number_of_boxes": 7,
+        "coordinates1": {
+            "UpperLeft": [
+                146,
+                184
+            ],
+            "LowerRight": [
+                259,
+                331
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                858,
+                188
+            ],
+            "LowerRight": [
+                971,
+                350
+            ]
+        },
+        "coordinates3": {
+            "UpperLeft": [
+                333,
+                77
+            ],
+            "LowerRight": [
+                1027,
+                717
+            ]
+        },
+        "coordinates4": {
+            "UpperLeft": [
+                909,
+                150
+            ],
+            "LowerRight": [
+                1191,
+                538
+            ]
+        },
+        "coordinates5": {
+            "UpperLeft": [
+                1174,
+                247
+            ],
+            "LowerRight": [
+                1279,
+                449
+            ]
+        },
+        "coordinates6": {
+            "UpperLeft": [
+                734,
+                254
+            ],
+            "LowerRight": [
+                863,
+                387
+            ]
+        },
+        "coordinates7": {
+            "UpperLeft": [
+                885,
+                149
+            ],
+            "LowerRight": [
+                1194,
+                671
+            ]
+        }
+    },
+    "photo7_z": {
+        "number_of_boxes": 1,
+        "coordinates1": {
+            "UpperLeft": [
+                857,
+                90
+            ],
+            "LowerRight": [
+                1607,
+                1073
+            ]
+        }
+    },
+    "photo8_z": {
+        "number_of_boxes": 1,
+        "coordinates1": {
+            "UpperLeft": [
+                568,
+                443
+            ],
+            "LowerRight": [
+                1028,
+                959
+            ]
+        }
+    },
+    "photo9_z": {
+        "number_of_boxes": 1,
+        "coordinates1": {
+            "UpperLeft": [
+                385,
+                238
+            ],
+            "LowerRight": [
+                770,
+                957
+            ]
+        }
+    },
+    "photo10_z": {
+        "number_of_boxes": 0
+    },
+    "photo11_z": {
+        "number_of_boxes": 1,
+        "coordinates1": {
+            "UpperLeft": [
+                0,
+                13
+            ],
+            "LowerRight": [
+                610,
+                951
+            ]
+        }
+    },
+    "photo12_z": {
+        "number_of_boxes": 1,
+        "coordinates1": {
+            "UpperLeft": [
+                188,
+                355
+            ],
+            "LowerRight": [
+                756,
+                959
+            ]
+        }
+    },
+    "photo13_z": {
+        "number_of_boxes": 2,
+        "coordinates1": {
+            "UpperLeft": [
+                0,
+                387
+            ],
+            "LowerRight": [
+                286,
+                959
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                660,
+                0
+            ],
+            "LowerRight": [
+                1278,
+                957
+            ]
+        }
+    },
+    "photo14_z": {
+        "number_of_boxes": 1,
+        "coordinates1": {
+            "UpperLeft": [
+                374,
+                274
+            ],
+            "LowerRight": [
+                953,
+                959
+            ]
+        }
+    },
+    "photo15_z": {
+        "number_of_boxes": 0
+    },
+    "photo16_z": {
+        "number_of_boxes": 0
+    },
+    "photo17_z": {
+        "number_of_boxes": 1,
+        "coordinates1": {
+            "UpperLeft": [
+                561,
+                293
+            ],
+            "LowerRight": [
+                1225,
+                953
+            ]
+        }
+    },
+    "photo18_z": {
+        "number_of_boxes": 0
+    },
+    "photo19_z": {
+        "number_of_boxes": 1,
+        "coordinates1": {
+            "UpperLeft": [
+                334,
+                283
+            ],
+            "LowerRight": [
+                516,
+                562
+            ]
+        }
+    },
+    "photo20_z": {
+        "number_of_boxes": 0
+    },
+    "photo21_z": {
+        "number_of_boxes": 0
+    },
+    "photo22_z": {
+        "number_of_boxes": 2,
+        "coordinates1": {
+            "UpperLeft": [
+                490,
+                254
+            ],
+            "LowerRight": [
+                967,
+                955
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                505,
+                281
+            ],
+            "LowerRight": [
+                806,
+                950
+            ]
+        }
+    },
+    "photo23_z": {
+        "number_of_boxes": 1,
+        "coordinates1": {
+            "UpperLeft": [
+                340,
+                282
+            ],
+            "LowerRight": [
+                989,
+                958
+            ]
+        }
+    },
+    "photo24_z": {
+        "number_of_boxes": 3,
+        "coordinates1": {
+            "UpperLeft": [
+                443,
+                368
+            ],
+            "LowerRight": [
+                1176,
+                958
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                748,
+                30
+            ],
+            "LowerRight": [
+                1277,
+                957
+            ]
+        },
+        "coordinates3": {
+            "UpperLeft": [
+                435,
+                371
+            ],
+            "LowerRight": [
+                753,
+                801
+            ]
+        }
+    },
+    "photo25_z": {
+        "number_of_boxes": 1,
+        "coordinates1": {
+            "UpperLeft": [
+                413,
+                223
+            ],
+            "LowerRight": [
+                1046,
+                958
+            ]
+        }
+    },
+    "photo26_z": {
+        "number_of_boxes": 1,
+        "coordinates1": {
+            "UpperLeft": [
+                611,
+                171
+            ],
+            "LowerRight": [
+                1107,
+                957
+            ]
+        }
+    },
+    "photo27_z": {
+        "number_of_boxes": 0
+    },
+    "photo28_z": {
+        "number_of_boxes": 2,
+        "coordinates1": {
+            "UpperLeft": [
+                526,
+                328
+            ],
+            "LowerRight": [
+                970,
+                959
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                814,
+                52
+            ],
+            "LowerRight": [
+                1280,
+                958
+            ]
+        }
+    },
+    "photo29_z": {
+        "number_of_boxes": 1,
+        "coordinates1": {
+            "UpperLeft": [
+                780,
+                415
+            ],
+            "LowerRight": [
+                1032,
+                959
+            ]
+        }
+    },
+    "photo30_z": {
+        "number_of_boxes": 0
+    },
+    "photo31_z": {
+        "number_of_boxes": 1,
+        "coordinates1": {
+            "UpperLeft": [
+                494,
+                415
+            ],
+            "LowerRight": [
+                941,
+                958
+            ]
+        }
+    },
+    "photo32_z": {
+        "number_of_boxes": 0
+    },
+    "photo33_z": {
+        "number_of_boxes": 1,
+        "coordinates1": {
+            "UpperLeft": [
+                0,
+                306
+            ],
+            "LowerRight": [
+                279,
+                957
+            ]
+        }
+    },
+    "photo34_z": {
+        "number_of_boxes": 1,
+        "coordinates1": {
+            "UpperLeft": [
+                0,
+                268
+            ],
+            "LowerRight": [
+                460,
+                957
+            ]
+        }
+    },
+    "photo35_z": {
+        "number_of_boxes": 1,
+        "coordinates1": {
+            "UpperLeft": [
+                196,
+                390
+            ],
+            "LowerRight": [
+                523,
+                958
+            ]
+        }
+    },
+    "photo36_z": {
+        "number_of_boxes": 1,
+        "coordinates1": {
+            "UpperLeft": [
+                447,
+                49
+            ],
+            "LowerRight": [
+                1249,
+                957
+            ]
+        }
+    },
+    "photo37_z": {
+        "number_of_boxes": 1,
+        "coordinates1": {
+            "UpperLeft": [
+                107,
+                131
+            ],
+            "LowerRight": [
+                909,
+                957
+            ]
+        }
+    },
+    "photo38_z": {
+        "number_of_boxes": 3,
+        "coordinates1": {
+            "UpperLeft": [
+                1033,
+                617
+            ],
+            "LowerRight": [
+                1057,
+                670
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                1017,
+                617
+            ],
+            "LowerRight": [
+                1035,
+                670
+            ]
+        },
+        "coordinates3": {
+            "UpperLeft": [
+                1023,
+                616
+            ],
+            "LowerRight": [
+                1049,
+                671
+            ]
+        }
+    },
+    "photo39_z": {
+        "number_of_boxes": 0
+    },
+    "photo40_z": {
+        "number_of_boxes": 3,
+        "coordinates1": {
+            "UpperLeft": [
+                428,
+                130
+            ],
+            "LowerRight": [
+                508,
+                366
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                499,
+                143
+            ],
+            "LowerRight": [
+                574,
+                379
+            ]
+        },
+        "coordinates3": {
+            "UpperLeft": [
+                1185,
+                195
+            ],
+            "LowerRight": [
+                1279,
+                673
+            ]
+        }
+    },
+    "photo41_z": {
+        "number_of_boxes": 6,
+        "coordinates1": {
+            "UpperLeft": [
+                75,
+                594
+            ],
+            "LowerRight": [
+                278,
+                882
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                570,
+                589
+            ],
+            "LowerRight": [
+                754,
+                910
+            ]
+        },
+        "coordinates3": {
+            "UpperLeft": [
+                357,
+                446
+            ],
+            "LowerRight": [
+                445,
+                544
+            ]
+        },
+        "coordinates4": {
+            "UpperLeft": [
+                679,
+                457
+            ],
+            "LowerRight": [
+                773,
+                747
+            ]
+        },
+        "coordinates5": {
+            "UpperLeft": [
+                781,
+                490
+            ],
+            "LowerRight": [
+                888,
+                713
+            ]
+        },
+        "coordinates6": {
+            "UpperLeft": [
+                1162,
+                531
+            ],
+            "LowerRight": [
+                1201,
+                583
+            ]
+        }
+    },
+    "photo42_z": {
+        "number_of_boxes": 1,
+        "coordinates1": {
+            "UpperLeft": [
+                222,
+                1037
+            ],
+            "LowerRight": [
+                450,
+                1274
+            ]
+        }
+    },
+    "photo43_z": {
+        "number_of_boxes": 6,
+        "coordinates1": {
+            "UpperLeft": [
+                337,
+                190
+            ],
+            "LowerRight": [
+                460,
+                392
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                206,
+                215
+            ],
+            "LowerRight": [
+                317,
+                473
+            ]
+        },
+        "coordinates3": {
+            "UpperLeft": [
+                56,
+                170
+            ],
+            "LowerRight": [
+                199,
+                526
+            ]
+        },
+        "coordinates4": {
+            "UpperLeft": [
+                504,
+                217
+            ],
+            "LowerRight": [
+                566,
+                323
+            ]
+        },
+        "coordinates5": {
+            "UpperLeft": [
+                424,
+                201
+            ],
+            "LowerRight": [
+                481,
+                304
+            ]
+        },
+        "coordinates6": {
+            "UpperLeft": [
+                186,
+                219
+            ],
+            "LowerRight": [
+                229,
+                331
+            ]
+        }
+    },
+    "photo44_z": {
+        "number_of_boxes": 4,
+        "coordinates1": {
+            "UpperLeft": [
+                563,
+                221
+            ],
+            "LowerRight": [
+                615,
+                392
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                1250,
+                91
+            ],
+            "LowerRight": [
+                1278,
+                183
+            ]
+        },
+        "coordinates3": {
+            "UpperLeft": [
+                1096,
+                93
+            ],
+            "LowerRight": [
+                1126,
+                182
+            ]
+        },
+        "coordinates4": {
+            "UpperLeft": [
+                541,
+                242
+            ],
+            "LowerRight": [
+                570,
+                354
+            ]
+        }
+    },
+    "photo45_z": {
+        "number_of_boxes": 1,
+        "coordinates1": {
+            "UpperLeft": [
+                397,
+                375
+            ],
+            "LowerRight": [
+                445,
+                482
+            ]
+        }
+    },
+    "photo46_z": {
+        "number_of_boxes": 2,
+        "coordinates1": {
+            "UpperLeft": [
+                672,
+                315
+            ],
+            "LowerRight": [
+                903,
+                706
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                941,
+                869
+            ],
+            "LowerRight": [
+                1008,
+                959
+            ]
+        }
+    },
+    "photo47_z": {
+        "number_of_boxes": 8,
+        "coordinates1": {
+            "UpperLeft": [
+                765,
+                549
+            ],
+            "LowerRight": [
+                899,
+                900
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                863,
+                540
+            ],
+            "LowerRight": [
+                959,
+                900
+            ]
+        },
+        "coordinates3": {
+            "UpperLeft": [
+                448,
+                503
+            ],
+            "LowerRight": [
+                514,
+                915
+            ]
+        },
+        "coordinates4": {
+            "UpperLeft": [
+                892,
+                550
+            ],
+            "LowerRight": [
+                959,
+                891
+            ]
+        },
+        "coordinates5": {
+            "UpperLeft": [
+                283,
+                491
+            ],
+            "LowerRight": [
+                386,
+                897
+            ]
+        },
+        "coordinates6": {
+            "UpperLeft": [
+                558,
+                467
+            ],
+            "LowerRight": [
+                617,
+                608
+            ]
+        },
+        "coordinates7": {
+            "UpperLeft": [
+                390,
+                502
+            ],
+            "LowerRight": [
+                518,
+                918
+            ]
+        },
+        "coordinates8": {
+            "UpperLeft": [
+                859,
+                532
+            ],
+            "LowerRight": [
+                932,
+                879
+            ]
+        }
+    },
+    "photo48_z": {
+        "number_of_boxes": 0
+    },
+    "photo49_z": {
+        "number_of_boxes": 7,
+        "coordinates1": {
+            "UpperLeft": [
+                443,
+                361
+            ],
+            "LowerRight": [
+                664,
+                958
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                393,
+                446
+            ],
+            "LowerRight": [
+                460,
+                636
+            ]
+        },
+        "coordinates3": {
+            "UpperLeft": [
+                321,
+                509
+            ],
+            "LowerRight": [
+                427,
+                641
+            ]
+        },
+        "coordinates4": {
+            "UpperLeft": [
+                343,
+                448
+            ],
+            "LowerRight": [
+                388,
+                549
+            ]
+        },
+        "coordinates5": {
+            "UpperLeft": [
+                485,
+                453
+            ],
+            "LowerRight": [
+                540,
+                575
+            ]
+        },
+        "coordinates6": {
+            "UpperLeft": [
+                628,
+                424
+            ],
+            "LowerRight": [
+                693,
+                530
+            ]
+        },
+        "coordinates7": {
+            "UpperLeft": [
+                393,
+                446
+            ],
+            "LowerRight": [
+                460,
+                572
+            ]
+        }
+    },
+    "photo50_z": {
+        "number_of_boxes": 15,
+        "coordinates1": {
+            "UpperLeft": [
+                304,
+                571
+            ],
+            "LowerRight": [
+                391,
+                726
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                368,
+                543
+            ],
+            "LowerRight": [
+                429,
+                684
+            ]
+        },
+        "coordinates3": {
+            "UpperLeft": [
+                212,
+                725
+            ],
+            "LowerRight": [
+                303,
+                897
+            ]
+        },
+        "coordinates4": {
+            "UpperLeft": [
+                109,
+                846
+            ],
+            "LowerRight": [
+                249,
+                959
+            ]
+        },
+        "coordinates5": {
+            "UpperLeft": [
+                336,
+                575
+            ],
+            "LowerRight": [
+                389,
+                728
+            ]
+        },
+        "coordinates6": {
+            "UpperLeft": [
+                920,
+                348
+            ],
+            "LowerRight": [
+                949,
+                419
+            ]
+        },
+        "coordinates7": {
+            "UpperLeft": [
+                0,
+                175
+            ],
+            "LowerRight": [
+                40,
+                225
+            ]
+        },
+        "coordinates8": {
+            "UpperLeft": [
+                593,
+                595
+            ],
+            "LowerRight": [
+                647,
+                705
+            ]
+        },
+        "coordinates9": {
+            "UpperLeft": [
+                676,
+                605
+            ],
+            "LowerRight": [
+                748,
+                706
+            ]
+        },
+        "coordinates10": {
+            "UpperLeft": [
+                268,
+                660
+            ],
+            "LowerRight": [
+                325,
+                757
+            ]
+        },
+        "coordinates11": {
+            "UpperLeft": [
+                987,
+                440
+            ],
+            "LowerRight": [
+                1015,
+                509
+            ]
+        },
+        "coordinates12": {
+            "UpperLeft": [
+                643,
+                483
+            ],
+            "LowerRight": [
+                677,
+                554
+            ]
+        },
+        "coordinates13": {
+            "UpperLeft": [
+                775,
+                565
+            ],
+            "LowerRight": [
+                823,
+                615
+            ]
+        },
+        "coordinates14": {
+            "UpperLeft": [
+                163,
+                804
+            ],
+            "LowerRight": [
+                282,
+                946
+            ]
+        },
+        "coordinates15": {
+            "UpperLeft": [
+                592,
+                597
+            ],
+            "LowerRight": [
+                639,
+                678
+            ]
+        }
+    },
+    "photo51_z": {
+        "number_of_boxes": 2,
+        "coordinates1": {
+            "UpperLeft": [
+                370,
+                442
+            ],
+            "LowerRight": [
+                454,
+                750
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                497,
+                448
+            ],
+            "LowerRight": [
+                603,
+                687
+            ]
+        }
+    },
+    "photo52_z": {
+        "number_of_boxes": 2,
+        "coordinates1": {
+            "UpperLeft": [
+                402,
+                0
+            ],
+            "LowerRight": [
+                568,
+                500
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                224,
+                0
+            ],
+            "LowerRight": [
+                350,
+                274
+            ]
+        }
+    },
+    "photo53_z": {
+        "number_of_boxes": 5,
+        "coordinates1": {
+            "UpperLeft": [
+                834,
+                476
+            ],
+            "LowerRight": [
+                929,
+                753
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                656,
+                518
+            ],
+            "LowerRight": [
+                722,
+                759
+            ]
+        },
+        "coordinates3": {
+            "UpperLeft": [
+                375,
+                413
+            ],
+            "LowerRight": [
+                418,
+                545
+            ]
+        },
+        "coordinates4": {
+            "UpperLeft": [
+                701,
+                526
+            ],
+            "LowerRight": [
+                746,
+                696
+            ]
+        },
+        "coordinates5": {
+            "UpperLeft": [
+                890,
+                491
+            ],
+            "LowerRight": [
+                938,
+                744
+            ]
+        }
+    },
+    "photo54_z": {
+        "number_of_boxes": 1,
+        "coordinates1": {
+            "UpperLeft": [
+                926,
+                636
+            ],
+            "LowerRight": [
+                998,
+                765
+            ]
+        }
+    },
+    "photo55_z": {
+        "number_of_boxes": 6,
+        "coordinates1": {
+            "UpperLeft": [
+                1068,
+                369
+            ],
+            "LowerRight": [
+                1177,
+                687
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                120,
+                347
+            ],
+            "LowerRight": [
+                257,
+                867
+            ]
+        },
+        "coordinates3": {
+            "UpperLeft": [
+                72,
+                336
+            ],
+            "LowerRight": [
+                200,
+                828
+            ]
+        },
+        "coordinates4": {
+            "UpperLeft": [
+                892,
+                530
+            ],
+            "LowerRight": [
+                1036,
+                721
+            ]
+        },
+        "coordinates5": {
+            "UpperLeft": [
+                970,
+                369
+            ],
+            "LowerRight": [
+                1103,
+                582
+            ]
+        },
+        "coordinates6": {
+            "UpperLeft": [
+                74,
+                339
+            ],
+            "LowerRight": [
+                243,
+                858
+            ]
+        }
+    },
+    "photo56_z": {
+        "number_of_boxes": 1,
+        "coordinates1": {
+            "UpperLeft": [
+                957,
+                301
+            ],
+            "LowerRight": [
+                1144,
+                627
+            ]
+        }
+    },
+    "photo57_z": {
+        "number_of_boxes": 5,
+        "coordinates1": {
+            "UpperLeft": [
+                0,
+                405
+            ],
+            "LowerRight": [
+                276,
+                898
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                626,
+                305
+            ],
+            "LowerRight": [
+                749,
+                792
+            ]
+        },
+        "coordinates3": {
+            "UpperLeft": [
+                175,
+                388
+            ],
+            "LowerRight": [
+                304,
+                795
+            ]
+        },
+        "coordinates4": {
+            "UpperLeft": [
+                291,
+                411
+            ],
+            "LowerRight": [
+                396,
+                590
+            ]
+        },
+        "coordinates5": {
+            "UpperLeft": [
+                558,
+                395
+            ],
+            "LowerRight": [
+                605,
+                541
+            ]
+        }
+    },
+    "photo58_z": {
+        "number_of_boxes": 1,
+        "coordinates1": {
+            "UpperLeft": [
+                1109,
+                224
+            ],
+            "LowerRight": [
+                1280,
+                446
+            ]
+        }
+    },
+    "photo59_z": {
+        "number_of_boxes": 1,
+        "coordinates1": {
+            "UpperLeft": [
+                864,
+                165
+            ],
+            "LowerRight": [
+                954,
+                417
+            ]
+        }
+    },
+    "photo60_z": {
+        "number_of_boxes": 8,
+        "coordinates1": {
+            "UpperLeft": [
+                773,
+                578
+            ],
+            "LowerRight": [
+                847,
+                808
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                976,
+                574
+            ],
+            "LowerRight": [
+                1037,
+                732
+            ]
+        },
+        "coordinates3": {
+            "UpperLeft": [
+                314,
+                546
+            ],
+            "LowerRight": [
+                382,
+                728
+            ]
+        },
+        "coordinates4": {
+            "UpperLeft": [
+                472,
+                542
+            ],
+            "LowerRight": [
+                525,
+                735
+            ]
+        },
+        "coordinates5": {
+            "UpperLeft": [
+                389,
+                542
+            ],
+            "LowerRight": [
+                457,
+                735
+            ]
+        },
+        "coordinates6": {
+            "UpperLeft": [
+                1104,
+                601
+            ],
+            "LowerRight": [
+                1176,
+                776
+            ]
+        },
+        "coordinates7": {
+            "UpperLeft": [
+                644,
+                537
+            ],
+            "LowerRight": [
+                681,
+                609
+            ]
+        },
+        "coordinates8": {
+            "UpperLeft": [
+                591,
+                522
+            ],
+            "LowerRight": [
+                627,
+                637
+            ]
+        }
+    },
+    "photo61_z": {
+        "number_of_boxes": 1,
+        "coordinates1": {
+            "UpperLeft": [
+                596,
+                290
+            ],
+            "LowerRight": [
+                630,
+                414
+            ]
+        }
+    },
+    "photo62_z": {
+        "number_of_boxes": 5,
+        "coordinates1": {
+            "UpperLeft": [
+                328,
+                408
+            ],
+            "LowerRight": [
+                510,
+                886
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                811,
+                290
+            ],
+            "LowerRight": [
+                938,
+                807
+            ]
+        },
+        "coordinates3": {
+            "UpperLeft": [
+                1220,
+                412
+            ],
+            "LowerRight": [
+                1276,
+                535
+            ]
+        },
+        "coordinates4": {
+            "UpperLeft": [
+                568,
+                355
+            ],
+            "LowerRight": [
+                632,
+                669
+            ]
+        },
+        "coordinates5": {
+            "UpperLeft": [
+                562,
+                356
+            ],
+            "LowerRight": [
+                657,
+                682
+            ]
+        }
+    },
+    "photo63_z": {
+        "number_of_boxes": 3,
+        "coordinates1": {
+            "UpperLeft": [
+                1063,
+                152
+            ],
+            "LowerRight": [
+                1279,
+                953
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                556,
+                221
+            ],
+            "LowerRight": [
+                822,
+                960
+            ]
+        },
+        "coordinates3": {
+            "UpperLeft": [
+                218,
+                311
+            ],
+            "LowerRight": [
+                274,
+                467
+            ]
+        }
+    },
+    "photo64_z": {
+        "number_of_boxes": 6,
+        "coordinates1": {
+            "UpperLeft": [
+                788,
+                513
+            ],
+            "LowerRight": [
+                832,
+                654
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                378,
+                492
+            ],
+            "LowerRight": [
+                409,
+                578
+            ]
+        },
+        "coordinates3": {
+            "UpperLeft": [
+                472,
+                498
+            ],
+            "LowerRight": [
+                502,
+                577
+            ]
+        },
+        "coordinates4": {
+            "UpperLeft": [
+                189,
+                501
+            ],
+            "LowerRight": [
+                218,
+                570
+            ]
+        },
+        "coordinates5": {
+            "UpperLeft": [
+                419,
+                494
+            ],
+            "LowerRight": [
+                450,
+                558
+            ]
+        },
+        "coordinates6": {
+            "UpperLeft": [
+                757,
+                513
+            ],
+            "LowerRight": [
+                785,
+                554
+            ]
+        }
+    },
+    "photo65_z": {
+        "number_of_boxes": 1,
+        "coordinates1": {
+            "UpperLeft": [
+                367,
+                248
+            ],
+            "LowerRight": [
+                487,
+                532
+            ]
+        }
+    },
+    "photo66_z": {
+        "number_of_boxes": 3,
+        "coordinates1": {
+            "UpperLeft": [
+                1047,
+                436
+            ],
+            "LowerRight": [
+                1156,
+                616
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                564,
+                394
+            ],
+            "LowerRight": [
+                618,
+                559
+            ]
+        },
+        "coordinates3": {
+            "UpperLeft": [
+                612,
+                388
+            ],
+            "LowerRight": [
+                658,
+                555
+            ]
+        }
+    },
+    "photo67_z": {
+        "number_of_boxes": 1,
+        "coordinates1": {
+            "UpperLeft": [
+                0,
+                77
+            ],
+            "LowerRight": [
+                50,
+                185
+            ]
+        }
+    },
+    "photo68_z": {
+        "number_of_boxes": 9,
+        "coordinates1": {
+            "UpperLeft": [
+                120,
+                510
+            ],
+            "LowerRight": [
+                212,
+                816
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                328,
+                624
+            ],
+            "LowerRight": [
+                382,
+                769
+            ]
+        },
+        "coordinates3": {
+            "UpperLeft": [
+                261,
+                563
+            ],
+            "LowerRight": [
+                303,
+                705
+            ]
+        },
+        "coordinates4": {
+            "UpperLeft": [
+                418,
+                455
+            ],
+            "LowerRight": [
+                575,
+                1012
+            ]
+        },
+        "coordinates5": {
+            "UpperLeft": [
+                52,
+                561
+            ],
+            "LowerRight": [
+                92,
+                716
+            ]
+        },
+        "coordinates6": {
+            "UpperLeft": [
+                713,
+                575
+            ],
+            "LowerRight": [
+                739,
+                635
+            ]
+        },
+        "coordinates7": {
+            "UpperLeft": [
+                623,
+                704
+            ],
+            "LowerRight": [
+                732,
+                884
+            ]
+        },
+        "coordinates8": {
+            "UpperLeft": [
+                687,
+                569
+            ],
+            "LowerRight": [
+                707,
+                650
+            ]
+        },
+        "coordinates9": {
+            "UpperLeft": [
+                872,
+                571
+            ],
+            "LowerRight": [
+                904,
+                674
+            ]
+        }
+    },
+    "photo69_z": {
+        "number_of_boxes": 0
+    },
+    "photo70_z": {
+        "number_of_boxes": 3,
+        "coordinates1": {
+            "UpperLeft": [
+                165,
+                465
+            ],
+            "LowerRight": [
+                396,
+                958
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                443,
+                221
+            ],
+            "LowerRight": [
+                747,
+                698
+            ]
+        },
+        "coordinates3": {
+            "UpperLeft": [
+                707,
+                207
+            ],
+            "LowerRight": [
+                1101,
+                619
+            ]
+        }
+    },
+    "photo71_z": {
+        "number_of_boxes": 4,
+        "coordinates1": {
+            "UpperLeft": [
+                323,
+                185
+            ],
+            "LowerRight": [
+                434,
+                372
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                464,
+                181
+            ],
+            "LowerRight": [
+                565,
+                365
+            ]
+        },
+        "coordinates3": {
+            "UpperLeft": [
+                143,
+                217
+            ],
+            "LowerRight": [
+                252,
+                377
+            ]
+        },
+        "coordinates4": {
+            "UpperLeft": [
+                549,
+                127
+            ],
+            "LowerRight": [
+                661,
+                359
+            ]
+        }
+    },
+    "photo72_z": {
+        "number_of_boxes": 0
+    },
+    "photo73_z": {
+        "number_of_boxes": 2,
+        "coordinates1": {
+            "UpperLeft": [
+                1035,
+                8
+            ],
+            "LowerRight": [
+                1279,
+                950
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                168,
+                82
+            ],
+            "LowerRight": [
+                420,
+                547
+            ]
+        }
+    },
+    "photo74_z": {
+        "number_of_boxes": 7,
+        "coordinates1": {
+            "UpperLeft": [
+                126,
+                570
+            ],
+            "LowerRight": [
+                249,
+                833
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                0,
+                568
+            ],
+            "LowerRight": [
+                105,
+                871
+            ]
+        },
+        "coordinates3": {
+            "UpperLeft": [
+                458,
+                485
+            ],
+            "LowerRight": [
+                546,
+                868
+            ]
+        },
+        "coordinates4": {
+            "UpperLeft": [
+                303,
+                549
+            ],
+            "LowerRight": [
+                387,
+                718
+            ]
+        },
+        "coordinates5": {
+            "UpperLeft": [
+                664,
+                540
+            ],
+            "LowerRight": [
+                700,
+                611
+            ]
+        },
+        "coordinates6": {
+            "UpperLeft": [
+                847,
+                526
+            ],
+            "LowerRight": [
+                926,
+                703
+            ]
+        },
+        "coordinates7": {
+            "UpperLeft": [
+                430,
+                559
+            ],
+            "LowerRight": [
+                456,
+                642
+            ]
+        }
+    },
+    "photo75_z": {
+        "number_of_boxes": 2,
+        "coordinates1": {
+            "UpperLeft": [
+                1228,
+                265
+            ],
+            "LowerRight": [
+                1279,
+                672
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                90,
+                309
+            ],
+            "LowerRight": [
+                203,
+                584
+            ]
+        }
+    },
+    "photo76_z": {
+        "number_of_boxes": 6,
+        "coordinates1": {
+            "UpperLeft": [
+                223,
+                498
+            ],
+            "LowerRight": [
+                301,
+                721
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                316,
+                485
+            ],
+            "LowerRight": [
+                409,
+                720
+            ]
+        },
+        "coordinates3": {
+            "UpperLeft": [
+                425,
+                511
+            ],
+            "LowerRight": [
+                470,
+                633
+            ]
+        },
+        "coordinates4": {
+            "UpperLeft": [
+                484,
+                520
+            ],
+            "LowerRight": [
+                524,
+                631
+            ]
+        },
+        "coordinates5": {
+            "UpperLeft": [
+                766,
+                512
+            ],
+            "LowerRight": [
+                818,
+                574
+            ]
+        },
+        "coordinates6": {
+            "UpperLeft": [
+                406,
+                521
+            ],
+            "LowerRight": [
+                431,
+                598
+            ]
+        }
+    },
+    "photo77_z": {
+        "number_of_boxes": 1,
+        "coordinates1": {
+            "UpperLeft": [
+                1061,
+                139
+            ],
+            "LowerRight": [
+                1235,
+                516
+            ]
+        }
+    },
+    "photo78_z": {
+        "number_of_boxes": 4,
+        "coordinates1": {
+            "UpperLeft": [
+                434,
+                462
+            ],
+            "LowerRight": [
+                506,
+                630
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                955,
+                436
+            ],
+            "LowerRight": [
+                996,
+                518
+            ]
+        },
+        "coordinates3": {
+            "UpperLeft": [
+                821,
+                477
+            ],
+            "LowerRight": [
+                879,
+                568
+            ]
+        },
+        "coordinates4": {
+            "UpperLeft": [
+                1054,
+                451
+            ],
+            "LowerRight": [
+                1089,
+                523
+            ]
+        }
+    },
+    "photo79_z": {
+        "number_of_boxes": 1,
+        "coordinates1": {
+            "UpperLeft": [
+                0,
+                188
+            ],
+            "LowerRight": [
+                221,
+                742
+            ]
+        }
+    },
+    "photo80_z": {
+        "number_of_boxes": 3,
+        "coordinates1": {
+            "UpperLeft": [
+                1100,
+                427
+            ],
+            "LowerRight": [
+                1278,
+                870
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                476,
+                351
+            ],
+            "LowerRight": [
+                573,
+                683
+            ]
+        },
+        "coordinates3": {
+            "UpperLeft": [
+                563,
+                351
+            ],
+            "LowerRight": [
+                650,
+                673
+            ]
+        }
+    },
+    "photo81_z": {
+        "number_of_boxes": 2,
+        "coordinates1": {
+            "UpperLeft": [
+                172,
+                353
+            ],
+            "LowerRight": [
+                256,
+                586
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                653,
+                346
+            ],
+            "LowerRight": [
+                850,
+                496
+            ]
+        }
+    },
+    "photo82_z": {
+        "number_of_boxes": 10,
+        "coordinates1": {
+            "UpperLeft": [
+                902,
+                658
+            ],
+            "LowerRight": [
+                936,
+                727
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                1071,
+                664
+            ],
+            "LowerRight": [
+                1104,
+                739
+            ]
+        },
+        "coordinates3": {
+            "UpperLeft": [
+                813,
+                643
+            ],
+            "LowerRight": [
+                835,
+                703
+            ]
+        },
+        "coordinates4": {
+            "UpperLeft": [
+                796,
+                645
+            ],
+            "LowerRight": [
+                815,
+                704
+            ]
+        },
+        "coordinates5": {
+            "UpperLeft": [
+                1053,
+                656
+            ],
+            "LowerRight": [
+                1072,
+                717
+            ]
+        },
+        "coordinates6": {
+            "UpperLeft": [
+                697,
+                649
+            ],
+            "LowerRight": [
+                718,
+                706
+            ]
+        },
+        "coordinates7": {
+            "UpperLeft": [
+                800,
+                644
+            ],
+            "LowerRight": [
+                819,
+                704
+            ]
+        },
+        "coordinates8": {
+            "UpperLeft": [
+                721,
+                654
+            ],
+            "LowerRight": [
+                741,
+                704
+            ]
+        },
+        "coordinates9": {
+            "UpperLeft": [
+                1013,
+                662
+            ],
+            "LowerRight": [
+                1051,
+                720
+            ]
+        },
+        "coordinates10": {
+            "UpperLeft": [
+                693,
+                650
+            ],
+            "LowerRight": [
+                709,
+                705
+            ]
+        }
+    },
+    "photo83_z": {
+        "number_of_boxes": 5,
+        "coordinates1": {
+            "UpperLeft": [
+                1042,
+                522
+            ],
+            "LowerRight": [
+                1143,
+                735
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                615,
+                523
+            ],
+            "LowerRight": [
+                696,
+                709
+            ]
+        },
+        "coordinates3": {
+            "UpperLeft": [
+                1195,
+                540
+            ],
+            "LowerRight": [
+                1250,
+                690
+            ]
+        },
+        "coordinates4": {
+            "UpperLeft": [
+                134,
+                500
+            ],
+            "LowerRight": [
+                169,
+                576
+            ]
+        },
+        "coordinates5": {
+            "UpperLeft": [
+                166,
+                501
+            ],
+            "LowerRight": [
+                192,
+                601
+            ]
+        }
+    },
+    "photo84_z": {
+        "number_of_boxes": 0
+    },
+    "photo85_z": {
+        "number_of_boxes": 5,
+        "coordinates1": {
+            "UpperLeft": [
+                0,
+                2
+            ],
+            "LowerRight": [
+                267,
+                873
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                807,
+                902
+            ],
+            "LowerRight": [
+                886,
+                959
+            ]
+        },
+        "coordinates3": {
+            "UpperLeft": [
+                1241,
+                682
+            ],
+            "LowerRight": [
+                1279,
+                809
+            ]
+        },
+        "coordinates4": {
+            "UpperLeft": [
+                839,
+                666
+            ],
+            "LowerRight": [
+                858,
+                720
+            ]
+        },
+        "coordinates5": {
+            "UpperLeft": [
+                1113,
+                691
+            ],
+            "LowerRight": [
+                1140,
+                741
+            ]
+        }
+    },
+    "photo86_z": {
+        "number_of_boxes": 0
+    },
+    "photo87_z": {
+        "number_of_boxes": 3,
+        "coordinates1": {
+            "UpperLeft": [
+                215,
+                548
+            ],
+            "LowerRight": [
+                245,
+                596
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                181,
+                552
+            ],
+            "LowerRight": [
+                205,
+                609
+            ]
+        },
+        "coordinates3": {
+            "UpperLeft": [
+                64,
+                550
+            ],
+            "LowerRight": [
+                82,
+                595
+            ]
+        }
+    },
+    "photo88_z": {
+        "number_of_boxes": 5,
+        "coordinates1": {
+            "UpperLeft": [
+                529,
+                307
+            ],
+            "LowerRight": [
+                602,
+                648
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                370,
+                401
+            ],
+            "LowerRight": [
+                442,
+                596
+            ]
+        },
+        "coordinates3": {
+            "UpperLeft": [
+                442,
+                354
+            ],
+            "LowerRight": [
+                540,
+                726
+            ]
+        },
+        "coordinates4": {
+            "UpperLeft": [
+                1215,
+                349
+            ],
+            "LowerRight": [
+                1279,
+                474
+            ]
+        },
+        "coordinates5": {
+            "UpperLeft": [
+                438,
+                347
+            ],
+            "LowerRight": [
+                541,
+                612
+            ]
+        }
+    },
+    "photo89_z": {
+        "number_of_boxes": 0
+    },
+    "photo90_z": {
+        "number_of_boxes": 4,
+        "coordinates1": {
+            "UpperLeft": [
+                833,
+                610
+            ],
+            "LowerRight": [
+                871,
+                695
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                1066,
+                626
+            ],
+            "LowerRight": [
+                1101,
+                697
+            ]
+        },
+        "coordinates3": {
+            "UpperLeft": [
+                479,
+                606
+            ],
+            "LowerRight": [
+                502,
+                660
+            ]
+        },
+        "coordinates4": {
+            "UpperLeft": [
+                454,
+                606
+            ],
+            "LowerRight": [
+                478,
+                648
+            ]
+        }
+    },
+    "photo91_z": {
+        "number_of_boxes": 5,
+        "coordinates1": {
+            "UpperLeft": [
+                757,
+                473
+            ],
+            "LowerRight": [
+                784,
+                561
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                464,
+                201
+            ],
+            "LowerRight": [
+                514,
+                312
+            ]
+        },
+        "coordinates3": {
+            "UpperLeft": [
+                207,
+                490
+            ],
+            "LowerRight": [
+                244,
+                581
+            ]
+        },
+        "coordinates4": {
+            "UpperLeft": [
+                788,
+                472
+            ],
+            "LowerRight": [
+                821,
+                529
+            ]
+        },
+        "coordinates5": {
+            "UpperLeft": [
+                512,
+                490
+            ],
+            "LowerRight": [
+                551,
+                570
+            ]
+        }
+    },
+    "photo92_z": {
+        "number_of_boxes": 0
+    },
+    "photo93_z": {
+        "number_of_boxes": 0
+    },
+    "photo94_z": {
+        "number_of_boxes": 3,
+        "coordinates1": {
+            "UpperLeft": [
+                304,
+                505
+            ],
+            "LowerRight": [
+                416,
+                889
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                287,
+                460
+            ],
+            "LowerRight": [
+                348,
+                662
+            ]
+        },
+        "coordinates3": {
+            "UpperLeft": [
+                189,
+                588
+            ],
+            "LowerRight": [
+                274,
+                861
+            ]
+        }
+    },
+    "photo95_z": {
+        "number_of_boxes": 2,
+        "coordinates1": {
+            "UpperLeft": [
+                208,
+                296
+            ],
+            "LowerRight": [
+                284,
+                408
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                0,
+                336
+            ],
+            "LowerRight": [
+                26,
+                482
+            ]
+        }
+    },
+    "photo96_z": {
+        "number_of_boxes": 3,
+        "coordinates1": {
+            "UpperLeft": [
+                54,
+                0
+            ],
+            "LowerRight": [
+                175,
+                207
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                228,
+                50
+            ],
+            "LowerRight": [
+                439,
+                434
+            ]
+        },
+        "coordinates3": {
+            "UpperLeft": [
+                711,
+                0
+            ],
+            "LowerRight": [
+                842,
+                106
+            ]
+        }
+    },
+    "photo97_z": {
+        "number_of_boxes": 2,
+        "coordinates1": {
+            "UpperLeft": [
+                477,
+                218
+            ],
+            "LowerRight": [
+                761,
+                1083
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                144,
+                36
+            ],
+            "LowerRight": [
+                329,
+                945
+            ]
+        }
+    },
+    "photo98_z": {
+        "number_of_boxes": 0
+    },
+    "photo99_z": {
+        "number_of_boxes": 17,
+        "coordinates1": {
+            "UpperLeft": [
+                605,
+                795
+            ],
+            "LowerRight": [
+                659,
+                952
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                853,
+                813
+            ],
+            "LowerRight": [
+                923,
+                959
+            ]
+        },
+        "coordinates3": {
+            "UpperLeft": [
+                1180,
+                809
+            ],
+            "LowerRight": [
+                1234,
+                959
+            ]
+        },
+        "coordinates4": {
+            "UpperLeft": [
+                1095,
+                832
+            ],
+            "LowerRight": [
+                1168,
+                959
+            ]
+        },
+        "coordinates5": {
+            "UpperLeft": [
+                221,
+                830
+            ],
+            "LowerRight": [
+                271,
+                959
+            ]
+        },
+        "coordinates6": {
+            "UpperLeft": [
+                187,
+                828
+            ],
+            "LowerRight": [
+                234,
+                959
+            ]
+        },
+        "coordinates7": {
+            "UpperLeft": [
+                532,
+                825
+            ],
+            "LowerRight": [
+                588,
+                959
+            ]
+        },
+        "coordinates8": {
+            "UpperLeft": [
+                291,
+                817
+            ],
+            "LowerRight": [
+                324,
+                960
+            ]
+        },
+        "coordinates9": {
+            "UpperLeft": [
+                516,
+                815
+            ],
+            "LowerRight": [
+                555,
+                959
+            ]
+        },
+        "coordinates10": {
+            "UpperLeft": [
+                455,
+                813
+            ],
+            "LowerRight": [
+                488,
+                946
+            ]
+        },
+        "coordinates11": {
+            "UpperLeft": [
+                316,
+                816
+            ],
+            "LowerRight": [
+                351,
+                940
+            ]
+        },
+        "coordinates12": {
+            "UpperLeft": [
+                567,
+                798
+            ],
+            "LowerRight": [
+                615,
+                954
+            ]
+        },
+        "coordinates13": {
+            "UpperLeft": [
+                670,
+                833
+            ],
+            "LowerRight": [
+                704,
+                909
+            ]
+        },
+        "coordinates14": {
+            "UpperLeft": [
+                853,
+                810
+            ],
+            "LowerRight": [
+                903,
+                960
+            ]
+        },
+        "coordinates15": {
+            "UpperLeft": [
+                563,
+                795
+            ],
+            "LowerRight": [
+                610,
+                929
+            ]
+        },
+        "coordinates16": {
+            "UpperLeft": [
+                355,
+                835
+            ],
+            "LowerRight": [
+                403,
+                958
+            ]
+        },
+        "coordinates17": {
+            "UpperLeft": [
+                567,
+                797
+            ],
+            "LowerRight": [
+                607,
+                899
+            ]
+        }
+    },
+    "photo100_z": {
+        "number_of_boxes": 1,
+        "coordinates1": {
+            "UpperLeft": [
+                763,
+                35
+            ],
+            "LowerRight": [
+                916,
+                292
+            ]
+        }
+    },
+    "photo101_z": {
+        "number_of_boxes": 5,
+        "coordinates1": {
+            "UpperLeft": [
+                127,
+                225
+            ],
+            "LowerRight": [
+                268,
+                390
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                454,
+                111
+            ],
+            "LowerRight": [
+                512,
+                226
+            ]
+        },
+        "coordinates3": {
+            "UpperLeft": [
+                356,
+                199
+            ],
+            "LowerRight": [
+                404,
+                262
+            ]
+        },
+        "coordinates4": {
+            "UpperLeft": [
+                391,
+                161
+            ],
+            "LowerRight": [
+                469,
+                252
+            ]
+        },
+        "coordinates5": {
+            "UpperLeft": [
+                393,
+                170
+            ],
+            "LowerRight": [
+                453,
+                246
+            ]
+        }
+    },
+    "photo102_z": {
+        "number_of_boxes": 0
+    },
+    "photo103_z": {
+        "number_of_boxes": 0
+    },
+    "photo104_z": {
+        "number_of_boxes": 0
+    },
+    "photo105_z": {
+        "number_of_boxes": 6,
+        "coordinates1": {
+            "UpperLeft": [
+                1115,
+                478
+            ],
+            "LowerRight": [
+                1145,
+                549
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                496,
+                489
+            ],
+            "LowerRight": [
+                525,
+                567
+            ]
+        },
+        "coordinates3": {
+            "UpperLeft": [
+                193,
+                515
+            ],
+            "LowerRight": [
+                252,
+                577
+            ]
+        },
+        "coordinates4": {
+            "UpperLeft": [
+                481,
+                497
+            ],
+            "LowerRight": [
+                503,
+                565
+            ]
+        },
+        "coordinates5": {
+            "UpperLeft": [
+                484,
+                488
+            ],
+            "LowerRight": [
+                513,
+                567
+            ]
+        },
+        "coordinates6": {
+            "UpperLeft": [
+                523,
+                488
+            ],
+            "LowerRight": [
+                540,
+                525
+            ]
+        }
+    },
+    "photo106_z": {
+        "number_of_boxes": 2,
+        "coordinates1": {
+            "UpperLeft": [
+                169,
+                206
+            ],
+            "LowerRight": [
+                284,
+                512
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                142,
+                224
+            ],
+            "LowerRight": [
+                205,
+                436
+            ]
+        }
+    },
+    "photo107_z": {
+        "number_of_boxes": 3,
+        "coordinates1": {
+            "UpperLeft": [
+                974,
+                156
+            ],
+            "LowerRight": [
+                1071,
+                327
+            ]
+        },
+        "coordinates2": {
+            "UpperLeft": [
+                821,
+                179
+            ],
+            "LowerRight": [
+                872,
+                291
+            ]
+        },
+        "coordinates3": {
+            "UpperLeft": [
+                1006,
+                154
+            ],
+            "LowerRight": [
+                1069,
+                309
+            ]
+        }
+    }
+}
