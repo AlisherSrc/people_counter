@@ -5,6 +5,7 @@ from PIL import Image
 from ultralytics import YOLO
 import glob
 import json
+from metrics import real_iou
 
 # Load the YOLO model
 model = YOLO('yolov8n.yaml').load('yolov8n.pt')
@@ -47,6 +48,7 @@ for filename in sorted_files:
         class_label = int(result.cls[0])
         # print(int(class_label))
         if (class_label == 0):
+            
             cnt += 1
             cv2.rectangle(image_cv, tl, br, (0, 255, 0), 2)
             cv2.putText(image_cv, str(int(result.conf[0] * 100)), (int(tl[0]), int(

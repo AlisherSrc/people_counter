@@ -28,5 +28,5 @@ import json
 input_dir = 'test_images/'
 
 # a = sorted(glob.glob(os.path.join(input_dir, '*.jpg')))
-a = sorted(glob.glob(os.path.join(input_dir, '*.jpg')), key=lambda x: int(os.path.splitext(os.path.basename(x))[0][len('photo'):-2]))
+sorted_path = sorted(glob.glob(os.path.join(input_dir, '*.jpg')), key=lambda x: int(os.path.splitext(os.path.basename(x))[0][len('photo'):-2]))
 print(a)

@@ -118,5 +118,410 @@
     "photo30_y": {
         "number_of_boxes" : "1",
         "coordinates1": { "UpperLeft": ["577", "449"], "LowerRight": ["752", "782"]  }
-      }
+      },
+      "photo31_y": {
+        "number_of_boxes" : 1,
+        "coordinates1" : {"UpperLeft": [908, 146], "LowerRight": [998, 274]}
+    },
+    "photo32_y": {
+        "number_of_boxes" : 2,
+        "coordinates1" : {"UpperLeft": [814, 169], "LowerRight": [882, 296]},
+        "coordinates2" : {"UpperLeft": [964, 156], "LowerRight": [1073, 332]}
+    },
+    "photo33_y": {
+        "number_of_boxes" : 1,
+        "coordinates1" : {"UpperLeft": [127, 225], "LowerRight": [270, 389]},
+        "coordinates2" : {"UpperLeft": [122, 246], "LowerRight": [190, 315]},
+        "coordinates3" : {"UpperLeft": [292, 196], "LowerRight": [1073, 332]},
+        "coordinates4" : {"UpperLeft": [814, 169], "LowerRight": [882, 296]},
+        "coordinates5" : {"UpperLeft": [964, 156], "LowerRight": [1073, 332]},
+        "coordinates6" : {"UpperLeft": [814, 169], "LowerRight": [882, 296]},
+        "coordinates7" : {"UpperLeft": [964, 156], "LowerRight": [1073, 332]}
+    },
+    "photo34_y": {
+        "number_of_boxes" : 0
+    },
+    "photo35_y": {
+        "number_of_boxes" : 3,
+        "coordinates1" : {"UpperLeft": [427, 128], "LowerRight": [519, 368]},
+        "coordinates2" : {"UpperLeft": [492, 142], "LowerRight": [575, 384]},
+        "coordinates3" : {"UpperLeft": [1156, 199], "LowerRight": [1279, 675]}
+    },
+    "photo36_y": {
+        "number_of_boxes" : 1,
+        "coordinates1" : {"UpperLeft": [182, 304], "LowerRight": [245, 456]}
+    },
+    "photo37_y": {
+        "number_of_boxes" : 1,
+        "coordinates1" : {"UpperLeft": [1218, 271], "LowerRight": [1278, 669]}
+    },
+    "photo38_y": {
+        "number_of_boxes" : 0
+    },
+    "photo39_y": {
+        "number_of_boxes" : 0
+    },
+    "photo40_y": {
+        "number_of_boxes" : 1,
+        "coordinates1" : {"UpperLeft": [439, 199], "LowerRight": [487, 276]}
+    },
+
+    "photo41_y": {
+        "number_of_boxes" : 0
+    },
+    "photo42_y": {
+        "number_of_boxes" : 1,
+        "coordinates1" : {"UpperLeft": [756, 36], "LowerRight": [914, 302]}
+    },
+    "photo43_y": {
+        "number_of_boxes" : 2,
+        "coordinates1" : {"UpperLeft": [1046, 2], "LowerRight": [1278, 958]},
+        "coordinates2" : {"UpperLeft": [1027, 136], "LowerRight": [1125, 588]}
+    },
+    "photo44_y": {
+        "number_of_boxes" : 0
+    },
+    "photo45_y": {
+        "number_of_boxes" : 0
+    },
+    "photo46_y": {
+        "number_of_boxes" : 2,
+        "coordinates1" : {"UpperLeft": [541, 251], "LowerRight": [573, 359]},
+        "coordinates2" : {"UpperLeft": [562, 221], "LowerRight": [616, 393]}
+    },
+    "photo47_y": {
+        "number_of_boxes" : 4,
+        "coordinates1" : {"UpperLeft": [222, 314], "LowerRight": [276, 471]},
+        "coordinates2" : {"UpperLeft": [263, 334], "LowerRight": [299, 445]},
+        "coordinates3" : {"UpperLeft": [521, 222], "LowerRight": [825, 958]},
+        "coordinates4" : {"UpperLeft": [1060, 152], "LowerRight": [1278, 958]}
+    },
+    "photo48_y": {
+        "number_of_boxes" : 2,
+        "coordinates1" : {"UpperLeft": [402, 3], "LowerRight": [276, 471]},
+        "coordinates2" : {"UpperLeft": [438, 3], "LowerRight": [687, 504]}
+    },
+    "photo49_y": {
+        "number_of_boxes" : 1,
+        "coordinates1" : {"UpperLeft": [1, 77], "LowerRight": [51, 184]}
+    },
+    "photo50_y": {
+        "number_of_boxes" : 1,
+        "coordinates1" : {"UpperLeft": [365, 247], "LowerRight": [487, 534]}
+    },
+    "photo51_y": {
+        "number_of_boxes" : 0
+    },
+    "photo52_y": {
+        "number_of_boxes" : 2,
+        "coordinates1" : {"UpperLeft": [145, 226], "LowerRight": [211, 348]},
+        "coordinates2" : {"UpperLeft": [157, 205], "LowerRight": [284, 514]}
+    },
+    "photo53_y": {
+        "number_of_boxes" : 1,
+        "coordinates1" : {"UpperLeft": [350, 330], "LowerRight": [412, 383]}
+    },
+    "photo54_y": {
+        "number_of_boxes" : 1,
+        "coordinates1" : {"UpperLeft": [1056, 140], "LowerRight": [1235, 519]}
+    },
+    "photo55_y": {
+        "number_of_boxes" : 0
+    },
+    "photo56_y": {
+        "number_of_boxes" : 1,
+        "coordinates1" : {"UpperLeft": [1, 188], "LowerRight": [223, 744]}
+    },
+    "photo57_y": {
+        "number_of_boxes" : 1,
+        "coordinates1" : {"UpperLeft": [173, 352], "LowerRight": [259, 589]}
+    },
+    "photo58_y": {
+        "number_of_boxes" : 0
+    },
+    "photo59_y": {
+        "number_of_boxes" : 0
+    },
+      "photo60_y": {
+        "number_of_boxes": 7,
+        "coordinates1": {"UpperLeft":  [204, 523], "LowerRight":  [226, 600]},
+        "coordinates2": {"UpperLeft":  [547, 560], "LowerRight":  [626, 685]},
+        "coordinates3": {"UpperLeft":  [613, 524], "LowerRight":  [700, 711]},
+        "coordinates4": {"UpperLeft":  [1043, 520], "LowerRight":  [1145, 734]},
+        "coordinates5": {"UpperLeft":  [1118, 544], "LowerRight":  [1146, 606]},
+        "coordinates6": {"UpperLeft":  [1146, 556], "LowerRight":  [1169, 609]},
+        "coordinates7": {"UpperLeft":  [1191, 538], "LowerRight":  [1253, 690]}
+      },
+      "photo61_y": {
+        "number_of_boxes": 0
+      },
+      "photo62_y": {
+        "number_of_boxes": 5,
+        "coordinates1": {"UpperLeft":  [657, 569], "LowerRight":  [727, 684]},
+        "coordinates2": {"UpperLeft":  [703, 572], "LowerRight":  [766, 684]},
+        "coordinates3": {"UpperLeft":  [768, 561], "LowerRight":  [896, 905]},
+        "coordinates4": {"UpperLeft":  [855, 542], "LowerRight":  [939, 879]},
+        "coordinates5": {"UpperLeft":  [913, 546], "LowerRight":  [958, 911]}
+      },
+       "photo63_y": {
+        "number_of_boxes": 1,
+        "coordinates1": {"UpperLeft":  [1159, 529], "LowerRight":  [1198, 582]}
+      },
+      "photo64_y": {
+        "number_of_boxes": 10,
+        "coordinates1": {"UpperLeft":  [3, 367], "LowerRight":  [88, 492]},
+        "coordinates2": {"UpperLeft":  [59, 171], "LowerRight":  [199, 510]},
+        "coordinates3": {"UpperLeft":  [183, 217], "LowerRight":  [236, 328]},
+        "coordinates4": {"UpperLeft":  [198, 213], "LowerRight":  [316, 491]},
+        "coordinates5": {"UpperLeft":  [333, 190], "LowerRight":  [468, 428]},
+        "coordinates6": {"UpperLeft":  [422, 205], "LowerRight":  [483, 323]},
+        "coordinates7": {"UpperLeft":  [496, 292], "LowerRight":  [533, 402]},
+        "coordinates8": {"UpperLeft":  [509, 221], "LowerRight":  [571, 323]},
+        "coordinates9": {"UpperLeft":  [652, 243], "LowerRight":  [711, 349]},
+        "coordinates10": {"UpperLeft":  [638, 204], "LowerRight":  [814, 353]}
+      },
+      "photo65_y": {
+        "number_of_boxes": 0
+      },
+      "photo66_y": {
+        "number_of_boxes": 7,
+        "coordinates1": {"UpperLeft":  [319, 506], "LowerRight":  [430, 638]},
+        "coordinates2": {"UpperLeft":  [326, 519], "LowerRight":  [440, 642]},
+        "coordinates3": {"UpperLeft":  [393, 446], "LowerRight":  [455, 652]},
+        "coordinates4": {"UpperLeft":  [481, 452], "LowerRight":  [542, 624]},
+        "coordinates5": {"UpperLeft":  [445, 361], "LowerRight":  [665, 958]},
+        "coordinates6": {"UpperLeft":  [624, 434], "LowerRight":  [696, 541]},
+        "coordinates7": {"UpperLeft":  [808, 585], "LowerRight":  [751, 584]}
+      },
+      "photo67_y": {
+        "number_of_boxes": 9,
+        "coordinates1": {"UpperLeft":  [0, 0], "LowerRight":  [268, 876]},
+        "coordinates2": {"UpperLeft":  [533, 616], "LowerRight":  [560, 649]},
+        "coordinates3": {"UpperLeft":  [807, 898], "LowerRight":  [891, 958]},
+        "coordinates4": {"UpperLeft":  [838, 631], "LowerRight":  [860, 722]},
+        "coordinates5": {"UpperLeft":  [899, 618], "LowerRight":  [936, 668]},
+        "coordinates6": {"UpperLeft":  [1188, 220], "LowerRight":  [1223, 284]},
+        "coordinates7": {"UpperLeft":  [952, 611], "LowerRight":  [977, 651]},
+        "coordinates8": {"UpperLeft":  [1239, 683], "LowerRight":  [1280, 813]},
+        "coordinates9": {"UpperLeft":  [1269, 637], "LowerRight":  [1280, 665]}
+      },
+      "photo68_y": {
+        "number_of_boxes": 0
+      },
+      "photo69_y": {
+        "number_of_boxes": 7,
+        "coordinates1": {"UpperLeft":  [68, 380], "LowerRight":  [135, 812]},
+        "coordinates2": {"UpperLeft":  [96, 337], "LowerRight":  [241, 868]},
+        "coordinates3": {"UpperLeft":  [137, 351], "LowerRight":  [254, 683]},
+        "coordinates4": {"UpperLeft":  [888, 561], "LowerRight":  [1048, 746]},
+        "coordinates5": {"UpperLeft":  [897, 523], "LowerRight":  [1022, 696]},
+        "coordinates6": {"UpperLeft":  [723, 484], "LowerRight":  [1109, 582]},
+        "coordinates7": {"UpperLeft":  [1067, 371], "LowerRight":  [1179, 683]}
+      },
+      "photo70_y": {
+        "number_of_boxes": 10,
+        "coordinates1": {"UpperLeft":  [222, 498], "LowerRight":  [304, 723]},
+        "coordinates2": {"UpperLeft":  [317, 487], "LowerRight":  [411, 727]},
+        "coordinates3": {"UpperLeft":  [369, 513], "LowerRight":  [388, 527]},
+        "coordinates4": {"UpperLeft":  [402, 521], "LowerRight":  [425, 593]},
+        "coordinates5": {"UpperLeft":  [428, 533], "LowerRight":  [445, 541]},
+        "coordinates6": {"UpperLeft":  [436, 509], "LowerRight":  [476, 634]},
+        "coordinates7": {"UpperLeft":  [467, 514], "LowerRight":  [492, 603]},
+        "coordinates8": {"UpperLeft":  [482, 520], "LowerRight":  [529, 634]},
+        "coordinates9": {"UpperLeft":  [594, 522], "LowerRight":  [615, 553]},
+        "coordinates10": {"UpperLeft":  [766, 504], "LowerRight":  [830, 581]}
+      },
+      "photo71_y": {
+        "number_of_boxes": 3,
+        "coordinates1": {"UpperLeft":  [5, 400], "LowerRight":  [277, 906]},
+        "coordinates2": {"UpperLeft":  [172, 385], "LowerRight":  [325, 797]},
+        "coordinates3": {"UpperLeft":  [453, 392], "LowerRight":  [503, 478]}
+      },
+      "photo72_y": {
+        "number_of_boxes": 1,
+        "coordinates1": {"UpperLeft":  [368, 440], "LowerRight":  [457, 757]}
+      },
+      "photo73_y": {
+        "number_of_boxes": 25,
+        "coordinates1": {"UpperLeft":  [123, 490], "LowerRight":  [138, 513]},
+        "coordinates2": {"UpperLeft":  [192, 518], "LowerRight":  [256, 580]},
+        "coordinates3": {"UpperLeft":  [255, 514], "LowerRight":  [305, 570]},
+        "coordinates4": {"UpperLeft":  [450, 505], "LowerRight":  [480, 542]},
+        "coordinates5": {"UpperLeft":  [482, 490], "LowerRight":  [502, 568]},
+        "coordinates6": {"UpperLeft":  [501, 491], "LowerRight":  [527, 569]},
+        "coordinates7": {"UpperLeft":  [527, 488], "LowerRight":  [542, 530]},
+        "coordinates8": {"UpperLeft":  [540, 489], "LowerRight":  [556, 528]},
+        "coordinates9": {"UpperLeft":  [599, 494], "LowerRight":  [616, 520]},
+        "coordinates10": {"UpperLeft":  [640, 485], "LowerRight":  [671, 543]},
+        "coordinates11": {"UpperLeft":  [682, 486], "LowerRight":  [694, 514]},
+        "coordinates12": {"UpperLeft":  [692, 485], "LowerRight":  [701, 512]},
+        "coordinates13": {"UpperLeft":  [700, 487], "LowerRight":  [707, 507]},
+        "coordinates14": {"UpperLeft":  [709, 486], "LowerRight":  [722, 511]},
+        "coordinates15": {"UpperLeft":  [717, 487], "LowerRight":  [726, 505]},
+        "coordinates16": {"UpperLeft":  [738, 483], "LowerRight":  [747, 507]},
+        "coordinates17": {"UpperLeft":  [800, 484], "LowerRight":  [811, 503]},
+        "coordinates18": {"UpperLeft":  [866, 480], "LowerRight":  [877, 497]},
+        "coordinates19": {"UpperLeft":  [954, 479], "LowerRight":  [964, 500]},
+        "coordinates20": {"UpperLeft":  [959, 476], "LowerRight":  [967, 497]},
+        "coordinates21": {"UpperLeft":  [978, 477], "LowerRight":  [988, 497]},
+        "coordinates22": {"UpperLeft":  [960, 458], "LowerRight":  [1000, 507]},
+        "coordinates23": {"UpperLeft":  [1025, 472], "LowerRight":  [1044, 509]},
+        "coordinates24": {"UpperLeft":  [1140, 477], "LowerRight":  [1150, 550]},
+        "coordinates25": {"UpperLeft":  [1189, 487], "LowerRight":  [1220, 522]}
+      },
+      "photo74_y": {
+        "number_of_boxes": 6,
+        "coordinates1": {"UpperLeft":  [451, 606], "LowerRight":  [481, 653]},
+        "coordinates2": {"UpperLeft":  [481, 608], "LowerRight":  [507, 664]},
+        "coordinates3": {"UpperLeft":  [647, 609], "LowerRight":  [664, 635]},
+        "coordinates4": {"UpperLeft":  [663, 608], "LowerRight":  [682, 653]},
+        "coordinates5": {"UpperLeft":  [830, 619], "LowerRight":  [870, 696]},
+        "coordinates6": {"UpperLeft":  [1074, 626], "LowerRight":  [1106, 699]}
+      },
+      "photo75_y": {
+        "number_of_boxes": 14,
+        "coordinates1": {"UpperLeft":  [63, 550], "LowerRight":  [87, 597]},
+        "coordinates2": {"UpperLeft":  [185, 555], "LowerRight":  [214, 613]},
+        "coordinates3": {"UpperLeft":  [216, 555], "LowerRight":  [245, 600]},
+        "coordinates4": {"UpperLeft":  [427, 559], "LowerRight":  [460, 624]},
+        "coordinates5": {"UpperLeft":  [460, 561], "LowerRight":  [477, 605]},
+        "coordinates6": {"UpperLeft":  [622, 567], "LowerRight":  [645, 594]},
+        "coordinates7": {"UpperLeft":  [648, 583], "LowerRight":  [666, 604]},
+        "coordinates8": {"UpperLeft":  [756, 569], "LowerRight":  [768, 584]},
+        "coordinates9": {"UpperLeft":  [990, 586], "LowerRight":  [1009, 602]},
+        "coordinates10": {"UpperLeft":  [1109, 592], "LowerRight":  [1136, 617]},
+        "coordinates11": {"UpperLeft":  [1150, 597], "LowerRight":  [1162, 618]},
+        "coordinates12": {"UpperLeft":  [1167, 595], "LowerRight":  [1185, 624]},
+        "coordinates13": {"UpperLeft":  [1084, 606], "LowerRight":  [1216, 640]},
+        "coordinates14": {"UpperLeft":  [1240, 611], "LowerRight":  [1266, 666]}
+      },
+      "photo76_y": {
+        "number_of_boxes": 9,
+        "coordinates1": {"UpperLeft":  [345, 631], "LowerRight":  [363, 669]},
+        "coordinates2": {"UpperLeft":  [364, 632], "LowerRight":  [371, 648]},
+        "coordinates3": {"UpperLeft":  [372, 635], "LowerRight":  [377, 648]},
+        "coordinates4": {"UpperLeft":  [375, 633], "LowerRight":  [383, 653]},
+        "coordinates5": {"UpperLeft":  [756, 623], "LowerRight":  [768, 652]},
+        "coordinates6": {"UpperLeft":  [779, 624], "LowerRight":  [791, 561]},
+        "coordinates7": {"UpperLeft":  [765, 633], "LowerRight":  [773, 653]},
+        "coordinates8": {"UpperLeft":  [1019, 620], "LowerRight":  [1042, 673]},
+        "coordinates9": {"UpperLeft":  [1036, 617], "LowerRight":  [1060, 673]}
+      },
+      "photo77_y": {
+        "number_of_boxes": 16,
+        "coordinates1": {"UpperLeft":  [189, 827], "LowerRight":  [237, 959]},
+        "coordinates2": {"UpperLeft":  [217, 828], "LowerRight":  [273, 959]},
+        "coordinates3": {"UpperLeft":  [289, 814], "LowerRight":  [240, 959]},
+        "coordinates4": {"UpperLeft":  [339, 791], "LowerRight":  [377, 944]},
+        "coordinates5": {"UpperLeft":  [360, 817], "LowerRight":  [405, 959]},
+        "coordinates6": {"UpperLeft":  [453, 805], "LowerRight":  [488, 948]},
+        "coordinates7": {"UpperLeft":  [507, 800], "LowerRight":  [535, 945]},
+        "coordinates8": {"UpperLeft":  [518, 812], "LowerRight":  [555, 959]},
+        "coordinates9": {"UpperLeft":  [534, 827], "LowerRight":  [591, 959]},
+        "coordinates10": {"UpperLeft":  [550, 790], "LowerRight":  [574, 826]},
+        "coordinates11": {"UpperLeft":  [568, 808], "LowerRight":  [606, 951]},
+        "coordinates12": {"UpperLeft":  [604, 791], "LowerRight":  [660, 952]},
+        "coordinates13": {"UpperLeft":  [852, 808], "LowerRight":  [891, 959]},
+        "coordinates14": {"UpperLeft":  [870, 826], "LowerRight":  [925, 959]},
+        "coordinates15": {"UpperLeft":  [1096, 831], "LowerRight":  [1177, 959]},
+        "coordinates16": {"UpperLeft":  [1180, 808], "LowerRight":  [1245, 959]}
+      },
+      "photo78_y": {
+        "number_of_boxes": 15,
+        "coordinates1": {"UpperLeft":  [161, 630], "LowerRight":  [181, 669]},
+        "coordinates2": {"UpperLeft":  [217, 631], "LowerRight":  [243, 672]},
+        "coordinates3": {"UpperLeft":  [695, 648], "LowerRight":  [715, 709]},
+        "coordinates4": {"UpperLeft":  [715, 639], "LowerRight":  [731, 698]},
+        "coordinates5": {"UpperLeft":  [723, 649], "LowerRight":  [742, 706]},
+        "coordinates6": {"UpperLeft":  [756, 643], "LowerRight":  [776, 702]},
+        "coordinates7": {"UpperLeft":  [782, 644], "LowerRight":  [802, 703]},
+        "coordinates8": {"UpperLeft":  [799, 640], "LowerRight":  [820, 704]},
+        "coordinates9": {"UpperLeft":  [816, 642], "LowerRight":  [839, 707]},
+        "coordinates10": {"UpperLeft":  [897, 658], "LowerRight":  [925, 726]},
+        "coordinates11": {"UpperLeft":  [907, 658], "LowerRight":  [940, 724]},
+        "coordinates12": {"UpperLeft":  [1015, 661], "LowerRight":  [1056, 720]},
+        "coordinates13": {"UpperLeft":  [1051, 654], "LowerRight":  [1078, 723]},
+        "coordinates14": {"UpperLeft":  [1068, 665], "LowerRight":  [1113, 746]},
+        "coordinates15": {"UpperLeft":  [1251, 658], "LowerRight":  [1279, 713]}
+      },
+      "photo79_y": {
+        "number_of_boxes": 0
+      },
+      "photo80_y": {
+        "number_of_boxes": 1,
+        "coordinates1": {"UpperLeft":  [602, 504], "LowerRight":  [539, 567]}
+      },
+      "photo81_y": {
+        "number_of_boxes": 3,
+        "coordinates1": {"UpperLeft":  [48, 2], "LowerRight":  [185, 219]},
+        "coordinates2": {"UpperLeft":  [706, 1], "LowerRight":  [836, 104]},
+        "coordinates3": {"UpperLeft":  [886, 89], "LowerRight":  [872, 108]}
+      },
+      "photo82_y": {
+        "number_of_boxes": 2,
+        "coordinates1": {"UpperLeft":  [572, 222], "LowerRight":  [613, 352]},
+        "coordinates2": {"UpperLeft":  [865, 165], "LowerRight":  [959, 422]}
+      },
+      "photo83_y": {
+        "number_of_boxes": 1,
+        "coordinates1": {"UpperLeft":  [764, 578], "LowerRight":  [856, 811]}
+      },
+      
+    "photo84_y": {
+      "number_of_boxes" : 44,
+      "coordinates1" : {"UpperLeft": [122, 850], "LowerRight": [244, 959]},
+      "coordinates2" : {"UpperLeft": [176, 809], "LowerRight": [247, 884]},
+      "coordinates3" : {"UpperLeft": [176, 728], "LowerRight": [300, 895]},
+      "coordinates4" : {"UpperLeft": [228, 701], "LowerRight": [314, 794]},
+      "coordinates5" : {"UpperLeft": [267, 660], "LowerRight": [330, 756]},
+      "coordinates6" : {"UpperLeft": [301, 577], "LowerRight": [390, 729]},
+      "coordinates7" : {"UpperLeft": [336, 537], "LowerRight": [378, 595]},
+      "coordinates8" : {"UpperLeft": [370, 546], "LowerRight": [427, 688]},
+      "coordinates9" : {"UpperLeft": [589, 598], "LowerRight": [641, 709]},
+      "coordinates10" : {"UpperLeft": [627, 580], "LowerRight": [674, 631]},
+      "coordinates11" : {"UpperLeft": [640, 630], "LowerRight": [683, 694]},
+      "coordinates12" : {"UpperLeft": [679, 604], "LowerRight": [732, 709]},
+      "coordinates13" : {"UpperLeft": [710, 547], "LowerRight": [767, 635]},
+      "coordinates14" : {"UpperLeft": [762, 526], "LowerRight": [805, 571]},
+      "coordinates15" : {"UpperLeft": [772, 565], "LowerRight": [824, 617]},
+      "coordinates16" : {"UpperLeft": [640, 481], "LowerRight": [680, 558]},
+      "coordinates17" : {"UpperLeft": [568, 467], "LowerRight": [607, 552]},
+      "coordinates18" : {"UpperLeft": [563, 426], "LowerRight": [585, 457]},
+      "coordinates19" : {"UpperLeft": [585, 433], "LowerRight": [606, 452]},
+      "coordinates20" : {"UpperLeft": [607, 413], "LowerRight": [637, 455]},
+      "coordinates21" : {"UpperLeft": [503, 339], "LowerRight": [525, 368]},
+      "coordinates22" : {"UpperLeft": [499, 358], "LowerRight": [523, 433]},
+      "coordinates23" : {"UpperLeft": [536, 365], "LowerRight": [563, 438]},
+      "coordinates24" : {"UpperLeft": [1, 176], "LowerRight": [43, 216]},
+      "coordinates25" : {"UpperLeft": [43, 191], "LowerRight": [110, 255]},
+      "coordinates26" : {"UpperLeft": [86, 176], "LowerRight": [133, 231]},
+      "coordinates27" : {"UpperLeft": [162, 172], "LowerRight": [204, 207]},
+      "coordinates28" : {"UpperLeft": [918, 345], "LowerRight": [953, 422]},
+      "coordinates29" : {"UpperLeft": [939, 314], "LowerRight": [960, 374]},
+      "coordinates30" : {"UpperLeft": [957, 359], "LowerRight": [980, 424]},
+      "coordinates31" : {"UpperLeft": [976, 362], "LowerRight": [1003, 438]},
+      "coordinates32" : {"UpperLeft": [989, 419], "LowerRight": [1023, 511]},
+      "coordinates33" : {"UpperLeft": [746, 384], "LowerRight": [780, 443]},
+      "coordinates34" : {"UpperLeft": [768, 376], "LowerRight": [793, 406]},
+      "coordinates35" : {"UpperLeft": [705, 342], "LowerRight": [727, 375]},
+      "coordinates36" : {"UpperLeft": [723, 342], "LowerRight": [747, 370]},
+      "coordinates37" : {"UpperLeft": [743, 344], "LowerRight": [768, 375]},
+      "coordinates38" : {"UpperLeft": [1031, 383], "LowerRight": [1061, 422]},
+      "coordinates39" : {"UpperLeft": [1124, 404], "LowerRight": [1155, 441]},
+      "coordinates40" : {"UpperLeft": [1143, 408], "LowerRight": [1179, 475]},
+      "coordinates41" : {"UpperLeft": [515, 160], "LowerRight": [539, 187]},
+      "coordinates42" : {"UpperLeft": [113, 164], "LowerRight": [145, 193]},
+      "coordinates43" : {"UpperLeft": [329, 159], "LowerRight": [351, 179]},
+      "coordinates44" : {"UpperLeft": [1111, 368], "LowerRight": [1141, 412]}
+  },
+
+  "photo85_y": {
+      "number_of_boxes" : 1,
+      "coordinates1" : {"UpperLeft": [675, 542], "LowerRight": [750, 610]}
+  },
+  "photo86_y": {
+      "number_of_boxes" : 2,
+      "coordinates1" : {"UpperLeft": [371, 403], "LowerRight": [454, 600]},
+      "coordinates2" : {"UpperLeft": [793, 402], "LowerRight": [844, 446]}
+  }
   }

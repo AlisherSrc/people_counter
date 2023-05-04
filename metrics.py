@@ -96,7 +96,7 @@ def real_iou(coords_data, coords_target):
             curr_iou = iou(data_coord, target_coord)
             area = area_of_rectangle([target_coord[0],target_coord[1]],[target_coord[2],target_coord[3]])
             # here we use this formula to choose right rectangle
-            value_iou = curr_iou / area
+            value_iou = curr_iou 
 
             if value_iou > max_value_iou:
                 # we need to save value for IoU to figure out which IoU to sum to overall IoU
@@ -110,10 +110,12 @@ def real_iou(coords_data, coords_target):
     #  Give penalty for each extra person in the prediction
     if len(coords_data) != len(coords_target):
         print("penalty!")
-        subtr_abs = abs(len(coords_data) - len(coords_target)) * 2
-        
-        overall_real_iou /= subtr_abs
-    return overall_real_iou
+        subtr_abs = abs(len(coords_data) - len(coords_target)) 
+        print("Before:" + str(overall_real_iou))
+        for _ in range(subtr_abs):
+            overall_real_iou -= overall_real_iou * 0.1
+        # overall_real_iou /= subtr_abs
+    return overall_real_iou / len(coords_data)
 
 
 
