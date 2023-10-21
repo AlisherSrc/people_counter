@@ -61,7 +61,7 @@ def area_of_rectangle(top_left, bottom_right):
     area = width * height
     return area
 
-
+# per photo
 def real_iou(coords_data, coords_target):
     # coords_data - data photo coordinates
     # coords_target - target photo coordinates
@@ -118,6 +118,20 @@ def real_iou(coords_data, coords_target):
     return overall_real_iou / len(coords_data)
 
 
+def people_metric(coords_data, coords_target):
+
+    print("coords_data " + str(coords_data) + "\rcoords_target " + str(coords_target))
+    maxx = coords_data if coords_data > coords_target else coords_target
+    minn = coords_target if coords_data > coords_target else coords_data
+    
+    if minn == 0 or maxx == 0:
+        maxx += 1
+        minn += 1
+    
+    print(maxx, minn)
+    print("plp metric: " + str(abs(minn / maxx) * 100))
+    
+    return (minn / maxx) * 100
 
 
 # target_dict = {}

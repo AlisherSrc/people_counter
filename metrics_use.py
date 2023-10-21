@@ -3,7 +3,7 @@ import json
 import numpy as np
 import cv2 as cv
 
-from metrics import real_iou
+from metrics import people_metric, real_iou
 
 import json
 
@@ -19,7 +19,7 @@ with open('data.json', 'r') as f:
 
 avg_iou = 0   
 cnt = 0 
-
+people_accuracy = 0
 # we need two arrays of arrays of coordinates
 
 
@@ -79,7 +79,12 @@ for photo_name_target, photo_name_data in zip(target_dict.keys(), data_dict.keys
 
     cnt+=1
     avg_iou += curr_image_iou
+    people_accuracy += people_metric( int(data_dict[photo_name_data]["number_of_boxes"] ),
+                                     int ( target_dict[photo_name_target]["number_of_boxes"]))
 
     # print(curr_image_iou)
 
+people_accuracy /= cnt
+
 print("Avg IoU: " + str(avg_iou))
+print("People accuracy: " + str(people_accuracy))
